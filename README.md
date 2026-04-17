@@ -118,5 +118,3 @@ Star this repo if it made you smile.
 Fork it if you want to make it even sexier.
 
 — Jordan
-
-Want me to also generate a fancy `LICENSE`, `.gitignore`, or a `package.json` version with build scripts? Just say the word.
